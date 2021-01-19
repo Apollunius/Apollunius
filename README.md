@@ -1,15 +1,15 @@
 [![HitCount](http://hits.dwyl.com/Apollunius/https://githubcom/Apollunius/READMEgit.svg)](http://hits.dwyl.com/Apollunius/https://githubcom/Apollunius/READMEgit) 
 
-# Hey, I'm Thauan 😁
+# Hey, I'm Thauan 😄 
 ![Hello There](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
-## About Me 😄
+## About Me ✨
 
 #### - 👨🏻‍💻 I'm machine-learning enthusiast and fullstack developer. I am passionate about technologies and love learn new things.
 
 #### - :mortar_board: Former Fullstack Developer student and currently working on <a href="https://www.cubos.academy/">@Cubos Academy</a>
 
-#### - 😻 I love watch tv shows, animes, movies and read books
+#### - 😻 I love watch tv shows, animes, movies, play video games and read books
 
 
 ## Tech Stack 🛠
