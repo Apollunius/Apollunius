@@ -17,7 +17,9 @@
 ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
 ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
 ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![React](https://img.shields.io/badge/-React-ff69b4)
+![ExpressJS](https://img.shields.io/badge/-ExpressJs-blue)
 ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
 ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
 
