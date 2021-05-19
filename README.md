@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/Apollunius/https://githubcom/Apollunius/READMEgit.svg)](http://hits.dwyl.com/Apollunius/https://githubcom/Apollunius/READMEgit) 
-
 # Hey, I'm Thauan 😄 
 ![Hello There](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
