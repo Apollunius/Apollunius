@@ -5,7 +5,7 @@
 
 #### - 📚 I'm machine-learning enthusiast and fullstack developer. I am passionate about technologies and love to learn new things.
 
-#### - :mortar_board: Former Fullstack Developer student and currently working on <a href="https://www.cubos.academy/">@Cubos Academy</a>
+#### - :mortar_board: Former Fullstack Web Developer student on <a href="https://www.cubos.academy/">@Cubos Academy</a>
 
 #### - 👨🏻‍💻 Backend Developer <a href="https://residencia.cubos.academy">@Residência Cubos Academy</a>
 
