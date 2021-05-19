@@ -5,13 +5,13 @@
 
 ## About Me ✨
 
-#### - 📚 I'm machine-learning enthusiast and fullstack developer. I am passionate about technologies and love learn new things.
+#### - 📚 I'm machine-learning enthusiast and fullstack developer. I am passionate about technologies and love to learn new things.
 
 #### - :mortar_board: Former Fullstack Developer student and currently working on <a href="https://www.cubos.academy/">@Cubos Academy</a>
 
-#### - 👨🏻‍💻 Backend Develop <a href="https://residencia.cubos.academy">@Residência Cubos Academy</a>
+#### - 👨🏻‍💻 Backend Developer <a href="https://residencia.cubos.academy">@Residência Cubos Academy</a>
 
-#### - 😻 I love watch tv shows, animes, movies, play video games and read books
+#### - 😻 I love to watch tv shows, animes, movies, to play video games and to read books
 
 
 ## Tech Stack 🛠
