@@ -7,7 +7,7 @@
 
 #### - :mortar_board: Former Fullstack Web Developer student on <a href="https://www.cubos.academy/">@Cubos Academy</a>
 
-#### - 👨🏻‍💻 Backend Developer <a href="https://residencia.cubos.academy">@Residência Cubos Academy</a>
+#### - 👨🏻‍💻 Backend Developer Jr.<a href="https://cubos.academy">@Cubos Academy</a>
 
 #### - 😻 I love to watch tv shows, animes, movies, to play video games and to read books
 
